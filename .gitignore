@@ -1,0 +1,10 @@
+
+.classpath
+.project
+.settings/org.eclipse.core.resources.prefs
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.m2e.core.prefs
+target/classes/com/demo/target/ScriptToPlaceOrder.class
+target/classes/META-INF/MANIFEST.MF
+target/classes/META-INF/maven/com.demo.target/Target-Demo/pom.properties
+target/classes/META-INF/maven/com.demo.target/Target-Demo/pom.xml
